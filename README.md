@@ -2,6 +2,11 @@
 Deepfake techniques, which present realistic AI-generated videos of people doing and saying fictional things,  have the potential to have a significant impact on how people determine the legitimacy of information presented online.  
 These content generation and modification technologies may affect the quality of public discourse and the safeguarding of  human rights—especially given that deepfakes may be used maliciously as a source of misinformation, manipulation, harassment, and  persuasion.  Identifying such manipulated media is of paramount importance in today's cyberspace.   
 
+The dataset is available on Kaggle:
+
+https://www.kaggle.com/c/deepfake-detection-challenge/data
+
+
 Special thanks to courses offered by deeplearning.ai and SuperDataScience, for furnishing many valuable insights.
 
 Following are the research paper referenced for this project :
